@@ -1,4 +1,4 @@
-1
-echo exploited successful!
+3 
+systeminfo | Clip
 echo %nr% >lrn.txt 
 run.cmd 
